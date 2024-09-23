@@ -1,6 +1,5 @@
 package lang.object.equals;
 
-import lang.Child;
 
 public class EqualsMainV2 {
     public static void main(String[] args) {
