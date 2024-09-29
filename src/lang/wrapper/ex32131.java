@@ -1,6 +1,6 @@
 package lang.wrapper;
 
-public class ex {
+public class ex32131 {
     public static void main(String[] ar) {
         String a = ar[0];
         String b = ar[1];
