@@ -14,7 +14,6 @@ public class Ex1RefMainV5 {
         System.out.println("프로그램 종료");
     }
 
-
     public static void main(String[] args) {
         System.out.println("Hello 실행");
         hello(() -> {
